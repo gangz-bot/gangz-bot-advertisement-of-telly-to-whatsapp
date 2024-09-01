@@ -1,0 +1,122 @@
+
+
+.WhatDo{
+    text-decoration: solid;
+    text-align: center;
+    text-decoration-line: overline;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    background-color: coral;
+}
+
+
+
+
+
+.WhatDo-list{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 4.5rem;
+}
+
+.WhatDo-list-left{    
+    text-align: start;
+    width: 45%;
+    font-size: 1.1rem;
+    
+}
+.leftimg1{
+    width: 49vh;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right: 10%;
+    
+
+}
+
+.WhatDo-list-left p{
+    
+    margin-left: 25%;
+}
+.WhatDo-list-left h4{
+    padding-bottom: 1rem;
+    margin-left: 5%;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.WhatDo-list2{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 4.5rem;
+}
+
+.WhatDo-list-center{    
+    text-align: start;
+    width: 45%;
+    font-size: 1.1rem;
+    
+}
+.centerimg1{
+    width: 49vh;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right: 10%;
+    
+
+}
+
+.WhatDo-list-center p{
+    
+    margin-left: 25%;
+}
+.WhatDo-list-center h4{
+    padding-bottom: 1rem;
+    margin-left: 5%;
+    font-weight: bold;
+}
+
+
+
+
+
+.WhatDo-list3{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 4.5rem;
+}
+
+.WhatDo-list-right{    
+    text-align: start;
+    width: 45%;
+    font-size: 1.1rem;
+    
+}
+.rightimg1{
+    width: 49vh;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right: 10%;
+    
+
+}
+
+.WhatDo-list-right p{
+    margin-left: 25%;
+}
+.WhatDo-list-right h4{
+    padding-bottom: 1rem;
+    margin-left: 5%;
+    font-weight: bold;
+}

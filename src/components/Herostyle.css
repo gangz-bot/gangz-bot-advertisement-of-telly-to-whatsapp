@@ -1,0 +1,92 @@
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.hero-mid{
+    
+    width: 100%;
+    height: 86vh;
+    position: relative;
+}
+.hero-contact{
+    width: 100%;
+    height: 86vh;
+    position: relative;
+}
+.hero-contact h1{
+    padding-top: 6rem !important;
+    text-shadow: 3px 3px 3px 3px;
+    padding-right: 30%;
+
+}
+
+
+.hero-mid h1{
+    padding-top: 5rem !important;
+    font-weight: 700 !important;
+    text-shadow: 2px 2px 2px 2px;
+}
+
+
+.Hero-text{
+    position: absolute;
+    top: 31%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+
+}
+
+.Hero-text h1{
+    padding-left: 46%;
+    padding-top: 9%;
+    font-size: 3rem;
+    font-weight: 800;
+    background: black;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Hero-text p{
+    padding-left: 58%;
+    padding-top: 3%;
+    margin-bottom: 9%;
+    font-size: 3rem;
+    text-align: center;
+    color: black;
+    
+
+}
+
+.Hero-text .show{
+    text-decoration: none;
+    padding-top: 10%;
+    
+    margin-left: 83%;
+    background: #fff;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #222;
+}
+.hero-mid .show{
+    display: none;
+}
+
+
+.Hero-text .show:hover{
+    color: aliceblue;
+    background-color: rgb(210, 88, 43);
+    
+}

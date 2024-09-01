@@ -1,0 +1,20 @@
+.About{
+    text-decoration: solid;
+    text-align: center;
+    text-decoration-line: overline;
+    padding-top: 4rem;
+    padding-bottom: 1.5rem;
+    background-color: rgb(125, 88, 220);
+}
+
+
+.AboutText{
+    background-color: rgb(125, 88, 220);
+    padding-top: 2.5rem;
+    padding-bottom: 15%;
+    justify-content: center;
+    font-family: Reem Kufi,sans-serif;
+    font-size: 19px;
+    padding-left: 17%;
+    padding-right: 17%;
+}

@@ -1,0 +1,24 @@
+.footer{
+    background-color: black;
+    color: antiquewhite;
+    
+}
+
+.top{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 6%;
+}
+
+.bottom{
+    padding-top: 1rem;
+    padding-left: 25rem;
+    padding-bottom: 2%;
+}
+
+.nav-link{
+    color: rgb(237, 113, 68);
+}
+
+
+
