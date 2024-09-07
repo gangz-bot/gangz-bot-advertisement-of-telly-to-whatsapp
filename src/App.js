@@ -1,4 +1,4 @@
-
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import './App.css';
 import {Route, Routes} from "react-router-dom";
 import HomePage from './routes/HomePage';
@@ -15,7 +15,7 @@ import ClientsPage from './routes/ClientsPage';
 
 function App() {
   return (
-    <>
+    <Router>
       <div className='App'>
       <Routes>
         <Route path="/" element={<HomePage/>}/>
@@ -30,7 +30,7 @@ function App() {
       
       </div>
 
-    </> 
+    </Router> 
   );
 }
 
