@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/css/main.f530e454.css",
-    "main.js": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/main.98210d7e.js",
+    "main.js": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/main.33a0600f.js",
     "static/js/787.a4b45000.chunk.js": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/787.a4b45000.chunk.js",
     "static/media/WhatDo-list-right-img.jpg": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/media/WhatDo-list-right-img.e597cf3604c5c1275563.jpg",
     "static/media/clientsimg.jpg": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/media/clientsimg.57642cc936196580c4c0.jpg",
@@ -11,11 +11,11 @@
     "static/media/aboutimg.jpg": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/media/aboutimg.f342191504589109a726.jpg",
     "index.html": "/gangz-bot-advertisement-of-telly-to-whatsapp/index.html",
     "main.f530e454.css.map": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/css/main.f530e454.css.map",
-    "main.98210d7e.js.map": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/main.98210d7e.js.map",
+    "main.33a0600f.js.map": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/main.33a0600f.js.map",
     "787.a4b45000.chunk.js.map": "/gangz-bot-advertisement-of-telly-to-whatsapp/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f530e454.css",
-    "static/js/main.98210d7e.js"
+    "static/js/main.33a0600f.js"
   ]
 }
